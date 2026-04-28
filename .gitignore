@@ -1,0 +1,9 @@
+# CLIENT-SIDE
+/client/node_modules
+/client/.env
+
+node_modules
+.env
+
+# SERVER-SIDE
+/server/node_modules
